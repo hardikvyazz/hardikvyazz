@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **Software Development Engineer** at **Kenscio**, where I turn coffee into code and ideas into scalable solutions. Based in **Bangalore, India**, I thrive on solving complex problems, learning the latest tech, and contributing to the developer community.
 
+> "Debugging code is like solving a murder mystery... except the victim is always me."
 ---
 
 ### 🚀 About Me
