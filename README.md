@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer** at **Kensc
 ---
 
 ### 🔥 Streak Stats
-![GitHub Contributions](https://ghchart.rshah.org/hardikvyazz)
+![GitHub Streak](https://streak-stats.demolab.com?user=hardikvyazz&theme=radical)
 ---
 
 ### 📫 Connect with Me
