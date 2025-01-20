@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer** at **Kensc
 - 🌟 **Role**: Software Development Engineer at Kenscio
 - 📍 **Location**: Bangalore, India
 - 💻 **Skills**: Full-stack development, cloud technologies, and database optimization
-- 🌐 **Portfolio**: Under Development
+- 🌐 **Portfolio**: https://hardikvyas.in/
 - 🌱 **Currently Learning**: Advanced TypeScript and Cloudflare Worker optimizations
 
 ---
@@ -65,4 +65,3 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer** at **Kensc
 
 ### ✨ Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
-
